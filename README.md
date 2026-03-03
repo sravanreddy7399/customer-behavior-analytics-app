@@ -36,3 +36,5 @@ Upload your transactions CSV file with the following required columns:
 - order_date
 - category
 - net_sales
+
+link-https://customer-behavior-analytics-app-lsmvnqk6vvztag46bbcmxn.streamlit.app/ 
